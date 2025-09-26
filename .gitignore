@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+android/
+ios/
+.expo/
+*.iml
+.gradle/
+build/
+.DS_Store
+.env
+
+# Metro
+*.metro*
+
+# TypeScript
+*.tsbuildinfo
